@@ -1,0 +1,7 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Benchmarks (1),org.eclipse.launchbar.core.descriptorType.default\:Benchmarks,org.eclipse.launchbar.core.descriptorType.default\:ExpressionEvaluator,org.eclipse.launchbar.core.descriptorType.default\:MainClass (1),org.eclipse.launchbar.core.descriptorType.default\:MainClass (2),org.eclipse.launchbar.core.descriptorType.default\:MainClass
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Benchmarks\ (1)/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Benchmarks\ (1)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
